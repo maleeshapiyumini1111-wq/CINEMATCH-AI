@@ -11,8 +11,8 @@ import streamlit as st
 # Paste your TMDb API key (v3 auth) below. Get one free at:
 # https://www.themoviedb.org/settings/api
 # ──────────────────────────────────────────────────────────────────────────
-TMDB_API_KEY = "bcc934fc2355c30d9c1d92c502b3c83c"     # <-- PASTE YOUR API KEY HERE
 
+TMDB_API_KEY = "bcc934fc2355c30d9c1d92c502b3c83c"    
 BASE_URL = "https://api.themoviedb.org/3"
 IMG_BASE = "https://image.tmdb.org/t/p/w500"
 IMG_BASE_SMALL = "https://image.tmdb.org/t/p/w200"
